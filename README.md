@@ -1,4 +1,7 @@
-# Emotion-Based Music Recommender 🎧
+## 🔗 Live Demo
+👉 https://janani1625.github.io/emotion-music-recommender/
+
+# Emotion-Based Music Recommender called Moodify🎧
 
 ## Description
 A Python-based application that analyzes user emotions from text input and recommends suitable music genres accordingly.
