@@ -4,7 +4,8 @@
 👉 https://janani1625.github.io/emotion-music-recommender/
 
 ## 📸 Screenshot
-![Moodify Web App](screenshots/moodifydemo.png)
+![Moodify Web App](https://raw.githubusercontent.com/Janani1625/emotion-music-recommender/main/screenshots/moodifydemo.png)
+
 
 ## Description
 A Python-based application that analyzes user emotions from text input and recommends suitable music genres accordingly.
